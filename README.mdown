@@ -2,6 +2,12 @@
 
 You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
 
+You can install this in PyCharm by installing the TextMate Bundle plugin in PyCharm,
+and then:
+
+* Clone this repo, or download the Zip and uncompress it
+* In the Pycharm -> Editor -> TextMate Bundles, click on the plus, and enter the location of the repo
+
 # General
 
 * [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
